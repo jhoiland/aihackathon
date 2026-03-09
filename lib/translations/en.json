@@ -1,0 +1,98 @@
+{
+  "common": {
+    "appName": "Travel Discovery",
+    "back": "Back",
+    "search": "Search",
+    "clear": "Clear",
+    "filter": "Filter",
+    "clearAll": "Clear all filters",
+    "apply": "Apply",
+    "cancel": "Cancel"
+  },
+  "navigation": {
+    "explore": "Explore",
+    "search": "Search",
+    "favorites": "Favorites",
+    "profile": "Profile"
+  },
+  "home": {
+    "title": "Discover Your Next Journey",
+    "subtitle": "Explore amazing destinations tailored to your interests and travel style",
+    "searchPlaceholder": "Search for a city or destination...",
+    "searchButton": "Search",
+    "suggestedLabel": "Popular Destinations",
+    "featured": "Featured Destinations",
+    "destinationsFound": "{count} destination found",
+    "destinationsNotFound": "No destinations found matching your filters. Try adjusting them."
+  },
+  "filters": {
+    "title": "Filters",
+    "climate": "Climate",
+    "travelType": "Travel Type",
+    "interests": "Interests",
+    "budget": "Budget",
+    "activeFilters": "Active Filters",
+    "noActiveFilters": "No active filters",
+    "climateOptions": {
+      "tropical": "Tropical",
+      "temperate": "Temperate",
+      "cold": "Cold"
+    },
+    "travelTypeOptions": {
+      "solo": "Solo",
+      "couple": "Couple",
+      "family": "Family",
+      "group": "Group",
+      "adventure": "Adventure"
+    },
+    "budgetOptions": {
+      "budget": "Budget",
+      "midrange": "Mid-range",
+      "fineDining": "Fine Dining"
+    },
+    "interestOptions": {
+      "culture": "Culture",
+      "nightlife": "Nightlife",
+      "food": "Food",
+      "nature": "Nature",
+      "history": "History",
+      "shopping": "Shopping",
+      "relaxation": "Relaxation",
+      "adventure": "Adventure",
+      "art": "Art",
+      "music": "Music"
+    }
+  },
+  "city": {
+    "welcome": "Welcome to {cityName}",
+    "climate": "Climate",
+    "bestTimeToVisit": "Best Time to Visit",
+    "knownFor": "What It's Known For",
+    "attractions": "Attractions",
+    "restaurants": "Restaurants",
+    "hotels": "Hotels",
+    "mustSee": "Must-See Attractions",
+    "hiddenGems": "Hidden Gems",
+    "whereToEat": "Where to Eat",
+    "tips": "Travel Tips",
+    "cuisine": "Cuisine",
+    "priceLevel": "Price Level",
+    "recommended": "Recommended",
+    "tips_label": "Tips"
+  },
+  "places": {
+    "discover": "Discover {category}",
+    "attractions": "Attractions",
+    "restaurants": "Restaurants",
+    "hotels": "Hotels",
+    "noPlacesFound": "No {category} found. Try adjusting your filters.",
+    "showing": "Showing {count} {category}",
+    "openNow": "Open now",
+    "closed": "Closed",
+    "reviews": "{count} reviews"
+  },
+  "pages": {
+    "notFound": "City not found",
+    "goBack": "Back to Explore"
+  }
+}

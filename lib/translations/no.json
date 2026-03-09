@@ -1,0 +1,98 @@
+{
+  "common": {
+    "appName": "Reiseoppdagelse",
+    "back": "Tilbake",
+    "search": "Søk",
+    "clear": "Fjern",
+    "filter": "Filter",
+    "clearAll": "Fjern alle filtre",
+    "apply": "Bruk",
+    "cancel": "Avbryt"
+  },
+  "navigation": {
+    "explore": "Utforsk",
+    "search": "Søk",
+    "favorites": "Favoritter",
+    "profile": "Profil"
+  },
+  "home": {
+    "title": "Oppdag Din Neste Reise",
+    "subtitle": "Utforsk fantastiske destinasjoner tilpasset dine interesser og reisestil",
+    "searchPlaceholder": "Søk etter en by eller destinasjon...",
+    "searchButton": "Søk",
+    "suggestedLabel": "Populære Destinasjoner",
+    "featured": "Anbefalte Destinasjoner",
+    "destinationsFound": "{count} destinasjon funnet",
+    "destinationsNotFound": "Ingen destinasjoner funnet som matcher filtrene dine. Prøv å justere dem."
+  },
+  "filters": {
+    "title": "Filtrer",
+    "climate": "Klima",
+    "travelType": "Reisetype",
+    "interests": "Interesser",
+    "budget": "Budget",
+    "activeFilters": "Aktive Filtre",
+    "noActiveFilters": "Ingen aktive filtre",
+    "climateOptions": {
+      "tropical": "Tropisk",
+      "temperate": "Temperert",
+      "cold": "Kaldt"
+    },
+    "travelTypeOptions": {
+      "solo": "Solo",
+      "couple": "Par",
+      "family": "Familie",
+      "group": "Gruppe",
+      "adventure": "Eventyr"
+    },
+    "budgetOptions": {
+      "budget": "Budget",
+      "midrange": "Mellomklasse",
+      "fineDining": "Finere Mat"
+    },
+    "interestOptions": {
+      "culture": "Kultur",
+      "nightlife": "Natteliv",
+      "food": "Mat",
+      "nature": "Natur",
+      "history": "Historie",
+      "shopping": "Shopping",
+      "relaxation": "Avslapping",
+      "adventure": "Eventyr",
+      "art": "Kunst",
+      "music": "Musikk"
+    }
+  },
+  "city": {
+    "welcome": "Velkommen til {cityName}",
+    "climate": "Klima",
+    "bestTimeToVisit": "Beste Tid å Besøke",
+    "knownFor": "Det som er kjent for",
+    "attractions": "Attraksjoner",
+    "restaurants": "Restauranter",
+    "hotels": "Hoteller",
+    "mustSee": "Må-Se Attraksjoner",
+    "hiddenGems": "Skjulte Perler",
+    "whereToEat": "Hvor du skal spise",
+    "tips": "Reisefips",
+    "cuisine": "Cuisinetype",
+    "priceLevel": "Prisnivå",
+    "recommended": "Anbefalt",
+    "tips_label": "Tips"
+  },
+  "places": {
+    "discover": "Oppdag {category}",
+    "attractions": "Attraksjoner",
+    "restaurants": "Restauranter",
+    "hotels": "Hoteller",
+    "noPlacesFound": "Ingen {category} funnet. Prøv å justere filtrene dine.",
+    "showing": "Viser {count} {category}",
+    "openNow": "Åpent nå",
+    "closed": "Lukket",
+    "reviews": "{count} anmeldelser"
+  },
+  "pages": {
+    "notFound": "By ikke funnet",
+    "goBack": "Tilbake til Utforsk"
+  }
+}
